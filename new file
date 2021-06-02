@@ -1,0 +1,3 @@
+with open('new.py','w',encoding = 'utf-8') as f:
+   f.write("Write what you want to write in\n")
+   f.write("this file\n\n")
